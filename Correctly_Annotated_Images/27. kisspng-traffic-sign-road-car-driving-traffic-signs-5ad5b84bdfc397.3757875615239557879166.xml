@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic signs</folder>
+	<filename>27. kisspng-traffic-sign-road-car-driving-traffic-signs-5ad5b84bdfc397.3757875615239557879166.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic signs\27. kisspng-traffic-sign-road-car-driving-traffic-signs-5ad5b84bdfc397.3757875615239557879166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>17</ymin>
+			<xmax>864</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+</annotation>

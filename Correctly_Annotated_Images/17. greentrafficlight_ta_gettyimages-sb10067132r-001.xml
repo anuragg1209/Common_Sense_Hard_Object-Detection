@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic lights</folder>
+	<filename>17. greentrafficlight_ta_gettyimages-sb10067132r-001.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic lights\17. greentrafficlight_ta_gettyimages-sb10067132r-001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>563</ymin>
+			<xmax>1545</xmax>
+			<ymax>1633</ymax>
+		</bndbox>
+	</object>
+</annotation>

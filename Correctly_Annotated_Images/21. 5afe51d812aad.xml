@@ -1,0 +1,62 @@
+<annotation>
+	<folder> traffic signs</folder>
+	<filename>21. 5afe51d812aad.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic signs\21. 5afe51d812aad.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2709</width>
+		<height>4298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>375</ymin>
+			<xmax>570</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>2302</ymin>
+			<xmax>584</xmax>
+			<ymax>2715</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>2302</ymin>
+			<xmax>1097</xmax>
+			<ymax>2709</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1204</xmin>
+			<ymin>3562</ymin>
+			<xmax>1617</xmax>
+			<ymax>4049</ymax>
+		</bndbox>
+	</object>
+</annotation>

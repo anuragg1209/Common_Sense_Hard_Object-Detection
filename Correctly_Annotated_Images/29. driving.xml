@@ -1,0 +1,26 @@
+<annotation>
+	<folder> driving</folder>
+	<filename>29. driving.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ driving\29. driving.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1984</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1810</xmin>
+			<ymin>752</ymin>
+			<xmax>1946</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>

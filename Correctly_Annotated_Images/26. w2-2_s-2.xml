@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic signs</folder>
+	<filename>26. w2-2_s-2.gif</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic signs\26. w2-2_s-2.gif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>300</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

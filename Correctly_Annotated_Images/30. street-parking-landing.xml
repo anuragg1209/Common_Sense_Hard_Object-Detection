@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>30. street-parking-landing.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\30. street-parking-landing.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>152</ymin>
+			<xmax>270</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>155</ymin>
+			<xmax>490</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>152</ymin>
+			<xmax>687</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

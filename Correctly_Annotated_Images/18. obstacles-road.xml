@@ -1,0 +1,38 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>18. obstacles-road.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\18. obstacles-road.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>286</ymin>
+			<xmax>657</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>85</ymin>
+			<xmax>456</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>
