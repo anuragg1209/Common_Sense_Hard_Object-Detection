@@ -1,0 +1,38 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>74. road-construction-work-zone.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\74. road-construction-work-zone.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>691</xmin>
+			<ymin>761</ymin>
+			<xmax>949</xmax>
+			<ymax>1391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>756</ymin>
+			<xmax>1111</xmax>
+			<ymax>1331</ymax>
+		</bndbox>
+	</object>
+</annotation>

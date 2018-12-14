@@ -1,0 +1,26 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>62. u.s._26_fire_roadblock_14661632831-e1490392343987-1024x576.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\62. u.s._26_fire_roadblock_14661632831-e1490392343987-1024x576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>57</ymin>
+			<xmax>419</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>
