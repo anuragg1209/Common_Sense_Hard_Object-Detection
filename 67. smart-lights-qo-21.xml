@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic lights</folder>
+	<filename>67. smart-lights-qo-21.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic lights\67. smart-lights-qo-21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>203</ymin>
+			<xmax>386</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

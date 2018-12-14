@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>76. tmg-article_default_mobile;jpeg_quality=20.jpg.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\76. tmg-article_default_mobile;jpeg_quality=20.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>97</ymin>
+			<xmax>171</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>65</ymin>
+			<xmax>364</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>38</ymin>
+			<xmax>440</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

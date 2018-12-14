@@ -1,0 +1,26 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>75. 89cdb597dcd740bfaa46f1f510268724.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\75. 89cdb597dcd740bfaa46f1f510268724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>animal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>133</ymin>
+			<xmax>169</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

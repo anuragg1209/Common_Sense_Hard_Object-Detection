@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>74. mw-fy879_wr_ele_20171122105225_zh.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\74. mw-fy879_wr_ele_20171122105225_zh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>160</ymin>
+			<xmax>558</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>241</ymin>
+			<xmax>755</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
