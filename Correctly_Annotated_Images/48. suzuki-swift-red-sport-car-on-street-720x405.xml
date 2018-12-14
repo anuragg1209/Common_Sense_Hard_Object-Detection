@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>48. suzuki-swift-red-sport-car-on-street-720x405.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\48. suzuki-swift-red-sport-car-on-street-720x405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>405</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>76</ymin>
+			<xmax>659</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>105</ymin>
+			<xmax>278</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

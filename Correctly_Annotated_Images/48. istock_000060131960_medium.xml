@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic lights</folder>
+	<filename>48. istock_000060131960_medium.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic lights\48. istock_000060131960_medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>30</ymin>
+			<xmax>261</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

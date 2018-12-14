@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>50. woman%20drives%20bumper%20car%20on%20street.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\50. woman%20drives%20bumper%20car%20on%20street.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>15</ymin>
+			<xmax>383</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>46</ymin>
+			<xmax>640</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>222</ymin>
+			<xmax>202</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
