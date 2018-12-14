@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>32. 1410104723277_wps_51_london_s_busy_roads_rexma.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\32. 1410104723277_wps_51_london_s_busy_roads_rexma.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>284</ymin>
+			<xmax>217</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>157</ymin>
+			<xmax>339</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>207</ymin>
+			<xmax>495</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

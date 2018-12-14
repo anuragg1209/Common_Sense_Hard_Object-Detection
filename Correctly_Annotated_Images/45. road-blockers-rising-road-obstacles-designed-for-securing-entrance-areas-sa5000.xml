@@ -1,0 +1,38 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>45. road-blockers-rising-road-obstacles-designed-for-securing-entrance-areas-sa5000.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\45. road-blockers-rising-road-obstacles-designed-for-securing-entrance-areas-sa5000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>211</ymin>
+			<xmax>399</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>barrier</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>195</ymin>
+			<xmax>749</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>
