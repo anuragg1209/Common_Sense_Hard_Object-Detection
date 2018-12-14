@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic signs</folder>
+	<filename>12. traffic-signs-14208-ba.png</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic signs\12. traffic-signs-14208-ba.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>272</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

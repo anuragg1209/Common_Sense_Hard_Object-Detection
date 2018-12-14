@@ -1,0 +1,38 @@
+<annotation>
+	<folder> traffic lights</folder>
+	<filename>13. pedestrian-traffic-lights-vector-2152768.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic lights\13. pedestrian-traffic-lights-vector-2152768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>959</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>22</ymin>
+			<xmax>434</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>10</ymin>
+			<xmax>921</xmax>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

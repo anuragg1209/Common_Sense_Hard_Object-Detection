@@ -1,0 +1,26 @@
+<annotation>
+	<folder> traffic lights</folder>
+	<filename>8. 18062016082759traffic-lights-graphic-1000x0.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ traffic lights\8. 18062016082759traffic-lights-graphic-1000x0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>623</width>
+		<height>808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>27</ymin>
+			<xmax>487</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

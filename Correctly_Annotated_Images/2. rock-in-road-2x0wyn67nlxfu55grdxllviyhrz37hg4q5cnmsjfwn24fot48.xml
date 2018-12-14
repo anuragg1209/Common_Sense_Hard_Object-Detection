@@ -1,0 +1,26 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>2. rock-in-road-2x0wyn67nlxfu55grdxllviyhrz37hg4q5cnmsjfwn24fot48.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\2. rock-in-road-2x0wyn67nlxfu55grdxllviyhrz37hg4q5cnmsjfwn24fot48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>35</ymin>
+			<xmax>593</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
