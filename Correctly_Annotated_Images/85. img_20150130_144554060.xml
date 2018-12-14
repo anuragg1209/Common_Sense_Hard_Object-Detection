@@ -1,0 +1,62 @@
+<annotation>
+	<folder> road obstacles</folder>
+	<filename>85. img_20150130_144554060.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\ road obstacles\85. img_20150130_144554060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4320</width>
+		<height>2432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1679</xmin>
+			<ymin>636</ymin>
+			<xmax>2658</xmax>
+			<ymax>1411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2712</xmin>
+			<ymin>565</ymin>
+			<xmax>3475</xmax>
+			<ymax>1261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2441</xmin>
+			<ymin>765</ymin>
+			<xmax>2754</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3487</xmin>
+			<ymin>824</ymin>
+			<xmax>3870</xmax>
+			<ymax>1119</ymax>
+		</bndbox>
+	</object>
+</annotation>

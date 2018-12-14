@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>91. drivers-park-car-in-middle-of-street-to-avoid-alternate-side-tickets.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\91. drivers-park-car-in-middle-of-street-to-avoid-alternate-side-tickets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>618</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>131</ymin>
+			<xmax>400</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>123</ymin>
+			<xmax>618</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>105</ymin>
+			<xmax>483</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

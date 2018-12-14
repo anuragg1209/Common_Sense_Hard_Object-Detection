@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cars on street</folder>
+	<filename>77. car_overpass.jpg</filename>
+	<path>C:\Users\Lexie\Downloads\cars on street\77. car_overpass.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>725</ymin>
+			<xmax>3085</xmax>
+			<ymax>2216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3137</xmin>
+			<ymin>787</ymin>
+			<xmax>4032</xmax>
+			<ymax>2077</ymax>
+		</bndbox>
+	</object>
+</annotation>
