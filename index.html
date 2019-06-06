@@ -1,0 +1,32 @@
+<head>
+    <title>Flask app</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  </head>
+<div class="container">
+  <div class="tutorial">
+    <ul>
+      <li>Home</li>
+      <li>Sample Images <i class="fa fa-angle-down"></i>
+        <ul>
+          <li>Image_1</li>
+          <li>Image_2 </li>
+          <li>Image_3</li>
+          <li>Image_4</li>
+          <li>Image_5</li>
+        </ul>
+      </li>
+      <li>Output Files <i class="fa fa-angle-down"></i>
+        <ul>
+          <a href="http://127.0.0.1:5000/get_collocations" ><li> Collocations.tsv </li></a>
+          <li>InvertedIndex.tsv</li>
+        </ul>
+      </li>
+      <li>About</li>
+    </ul>
+    <div class="slider"></div>
+    <div class="information">
+      <p>A simple, clean looking dropdown menu.Select Output file type to display </p>
+    </div>
+  </div>
+</div><link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
