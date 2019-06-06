@@ -1,0 +1,20 @@
+label,confidence,top_left_x,top_left_y,bottom_right_x,bottom_right_y
+person,0.11,461,596,484,647
+person,0.17,622,600,652,661
+person,0.11,719,610,732,638
+person,0.11,797,607,812,629
+person,0.12,842,604,856,630
+person,0.26,1536,585,1568,637
+person,0.77,326,580,394,755
+person,0.14,513,617,544,692
+person,0.45,490,591,539,701
+bicycle,0.66,351,656,439,756
+bicycle,0.1,408,669,446,746
+car,0.16,1519,562,1573,600
+train,0.17,857,455,1052,704
+traffic light,0.42,434,449,468,530
+traffic light,0.26,1141,458,1174,510
+traffic light,0.63,1149,443,1202,532
+traffic light,0.12,491,510,530,561
+backpack,0.11,358,599,391,647
+pottedplant,0.18,584,594,663,669
